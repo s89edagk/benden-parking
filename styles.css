@@ -87,7 +87,7 @@ h1 {
   display: inline-block;
   min-width: 8ch;
   white-space: nowrap;
-  background: rgba(12, 76, 47, 0.95);
+  background: transparent;
   padding: 0.1em 0.2em;
   border-radius: 0.35rem;
   margin-left: -0.2em;
