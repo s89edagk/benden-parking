@@ -206,10 +206,6 @@ footer {
     align-items: center;
   }
 
-  .headline-line {
-    display: inline;
-  }
-
   .cta-list {
     flex-direction: column;
     align-items: stretch;
